@@ -60,6 +60,16 @@ const App = () => {
           </Card.Body>
         </Card>
       </div>
+
+      <p className="howtoreact">
+        you need three terminals
+        one for react install and running using install npm and run dev
+        one for installing react bootstrap and bootstrap using install 
+        one for pushing to git
+
+        after installing react clear all codes from app.css to index.css 
+        and write frsh import using raface
+      </p>
     </>
   )
 }
